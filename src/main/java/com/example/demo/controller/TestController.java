@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.controller;
 
  import com.microsoft.applicationinsights.TelemetryClient;
  import java.io.IOException;
